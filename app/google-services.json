@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "523677849276",
+    "firebase_url": "https://top-news-64738.firebaseio.com",
+    "project_id": "top-news-64738",
+    "storage_bucket": "top-news-64738.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523677849276:android:4fef3ffc4ece5d6e",
+        "android_client_info": {
+          "package_name": "art.kashmir.com.newsapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523677849276-0nj7e1c0rhtqrfsua9q05q0ic0r34ist.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_JI4ooMI7otCu-ePcHT8FYSevQ0840ms"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
